@@ -28,12 +28,8 @@ Here is what I can help you with:
 
 ### Languages and Tools
 
-<p align="center">
-  <a href="https://github.com/tyoakbar057-sys">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyoakbar057-sys&theme=default" alt="Languages detected from public GitHub repositories" />
-  </a>
-</p>
----
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github," /> </p> 
+
 
 ### Github Stats
 

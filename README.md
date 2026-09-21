@@ -30,7 +30,7 @@ Here is what I can help you with:
 
 <p align="center">
   <a href="https://github.com/tyoakbar057-sys">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyoakbar057-sys&layout=compact&langs_count=12&hide_border=true" alt="Languages used across GitHub repositories" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyoakbar057-sys&theme=default" alt="Languages used across GitHub repositories" />
   </a>
 </p>
 
@@ -40,10 +40,10 @@ Here is what I can help you with:
 
 <p align="center">
   <a href="https://github.com/tyoakbar057-sys">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tyoakbar057-sys&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tyoakbar057-sys&theme=default" alt="GitHub stats" />
   </a>
   <a href="https://github.com/tyoakbar057-sys">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyoakbar057-sys&layout=compact&hide_border=true" alt="Top languages" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyoakbar057-sys&theme=default" alt="Top languages" />
   </a>
 </p>
 

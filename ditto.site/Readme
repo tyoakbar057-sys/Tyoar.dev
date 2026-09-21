@@ -47,6 +47,14 @@ Here is what I can help you with:
   </a>
 </p>
 
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyoakbar057-sys/Tyoar.dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyoakbar057-sys/Tyoar.dev/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/tyoakbar057-sys/Tyoar.dev/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ### Achievement Game
 
 <p align="center">

@@ -10,9 +10,17 @@
 ---
 
 ### About me
-- 💻 Fullstack Developer
-- 🌱 Selalu belajar teknologi baru dan senang mengeksplorasi tantangan pengembangan aplikasi
-- 🛠️ Teknologi yang saya kerjakan: Frontend, Backend, Database, dan Deployment
+ Hi there! I am a Full-Stack Web Developer specialized in building secure, high-performance web applications and seamless system integrations. 
+
+Even though I am new to freelancing, I have hands-on technical experience developing end-to-end projects from scratch. I love optimizing applications to ensure they load instantly and run efficiently.
+
+Here is what I can help you with:
+• Full-Stack Web Development & Responsive UI
+• RESTful API Design & Endpoint Architecture
+• Firebase Ecosystem (Authentication, Firestore, Upfront Data Caching)
+• Payment Gateway Integration (Midtrans, Xendit, Stripe, etc.)
+• Webhooks & Callback Handlers for automated transaction flows
+• Web Performance Optimization & Offline Persistence
 - 💼 Freelancer aktif di [Upwork](https://www.upwork.com/freelancers/~01be2657bf90a9c84b)
 - 📫 Terhubung dengan saya lewat LinkedIn atau X (Twitter)
 
@@ -20,27 +28,33 @@
 
 ### Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,docker," />
+<p align="center">
+  <a href="https://github.com/tyoakbar057-sys">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyoakbar057-sys&layout=compact&langs_count=12&hide_border=true" alt="Languages used across GitHub repositories" />
+  </a>
 </p>
 
 ---
 
 ### GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyoakbar057-sys&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyoakbar057-sys&layout=compact&theme=default&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/tyoakbar057-sys">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tyoakbar057-sys&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/tyoakbar057-sys">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyoakbar057-sys&layout=compact&hide_border=true" alt="Top languages" />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyoakbar057-sys&theme=default&hide_border=true" />
+### Achievement Game
+
+<p align="center">
+  <a href="https://portofolio-rho-sand-92.vercel.app/snake">
+    <img src="https://img.shields.io/badge/PLAY-SNAKE%20LAB-456B4B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Snake Lab" />
+  </a>
 </p>
 
----
+> Collect the green squares, beat your score, and take a tiny break between projects.
 
-### Achievements
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=tyoakbar057-sys&theme=flat&no-frame=true&row=1&column=6" />
-</p>

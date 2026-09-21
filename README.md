@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=tyoakbar057-sys&label=PROFILE+VIEWS&color=grey&style=flat" alt="profile views"/>
   <a href="https://www.linkedin.com/in/achmad-tyo-akbar-rizqi-744429369"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/akbarr_611"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~01be2657bf90a9c84b"><img src="https://img.shields.io/badge/UPWORK-6FDA44?style=flat&logo=upwork&logoColor=white" /></a>
+  </a>
 </p>
 
 ---

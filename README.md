@@ -49,13 +49,7 @@ Here is what I can help you with:
   <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/tyoakbar057-sys/Tyoar.dev/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### Achievement Game
 
-<p align="center">
-  <a href="https://portofolio-rho-sand-92.vercel.app/snake">
-    <img src="https://img.shields.io/badge/PLAY-SNAKE%20LAB-456B4B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Snake Lab" />
-  </a>
-</p>
 
 > Collect the green squares, beat your score, and take a tiny break between projects.
 

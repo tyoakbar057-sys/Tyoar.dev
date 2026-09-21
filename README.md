@@ -30,14 +30,14 @@ Here is what I can help you with:
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,docker,figma,vscode" /> </p>
 ---
 
-### GitHub Stats
+### Github Stats
 
 <p align="center">
   <a href="https://github.com/tyoakbar057-sys">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tyoakbar057-sys&theme=default" alt="GitHub stats" />
+    <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=tyoakbar057-sys&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats" />
   </a>
   <a href="https://github.com/tyoakbar057-sys">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyoakbar057-sys&theme=default" alt="Top languages" />
+    <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tyoakbar057-sys&layout=compact&langs_count=10&theme=default" alt="Most used languages" />
   </a>
 </p>
 

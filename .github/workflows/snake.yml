@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: tyoakbar057-sys
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%2300c853&color_dots=%23e8f5e9,%23b9f6ca,%2369f0ae,%2300c853,%2300a844
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300ff66&color_dots=%230b1f14,%230f542c,%23158a48,%2300c853,%2300ff66
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
